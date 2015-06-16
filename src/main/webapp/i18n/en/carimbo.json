@@ -1,0 +1,17 @@
+{
+    "pacpontosApp": {
+        "carimbo" : {
+            "home": {
+                "title": "Carimbos",
+                "createLabel": "Create a new Carimbo",
+                "createOrEditLabel": "Create or edit a Carimbo"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Carimbo {{ id }}?"
+            },
+            "detail": {
+                "title": "Carimbo"
+            }
+        }
+    }
+}

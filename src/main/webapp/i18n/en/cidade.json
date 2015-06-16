@@ -1,0 +1,18 @@
+{
+    "pacpontosApp": {
+        "cidade" : {
+            "home": {
+                "title": "Cidades",
+                "createLabel": "Create a new Cidade",
+                "createOrEditLabel": "Create or edit a Cidade"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Cidade {{ id }}?"
+            },
+            "detail": {
+                "title": "Cidade"
+            },
+            "nome": "Nome"
+        }
+    }
+}

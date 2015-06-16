@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "baseName": "pacpontos",
+    "packageName": "com.pacpontos",
+    "packageFolder": "com/pacpontos",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "56665b13f26f0c345f8242c621f4831ec56fc422"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "pacpontosApp": {
+        "carimbo" : {
+            "home": {
+                "title": "Carimbos",
+                "createLabel": "Créer un nouveau Carimbo",
+                "createOrEditLabel": "Créer ou éditer un Carimbo"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Carimbo {{ id }} ?"
+            },
+            "detail": {
+                "title": "Carimbo"
+            }
+        }
+    }
+}
+
